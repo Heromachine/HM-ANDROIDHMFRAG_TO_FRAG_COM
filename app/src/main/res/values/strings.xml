@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ANDROID-HM-FRAG_TO_FRAG_COM</string>
+
+    <!-- fragment tags -->
+    <string name="frag_login_screen_vert">Fragment  LogIn</string>
+    <string name="frag_sigup_screen_vert">Fragment SignUp</string>
+    <string name="frag_home_screen_vert">Fragment SignUp</string>
+
+
+
+
+    <!-- intent keys -->
+    <string name="intent_message">intent_message</string>
+
+</resources>
